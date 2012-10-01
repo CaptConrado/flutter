@@ -2,8 +2,8 @@
 session_start();
 
 // facebook:
-$fbAPIKey = '354211487989261';
-$fbSecret = '3f71e62611254ff4fe09210955295686';
+$fbAPIKey = '3*****************1';
+$fbSecret = '***************************';
 $fb_redirect_url = 'http://flutter.phpfogapp.com';
 //$fb_redirect_url = 'http://localhost:8080';
 
@@ -15,11 +15,11 @@ $ApiVersion = "2010-04-01";
 //$twilioAppId = 'APfc0ca6064feb95838cccee0137c4cb62';
 
 // Conrad twilio:
-$accountSid = 'AC701ddef9bce91404467507cd870034db';
-$authToken  = '1bd60ff00f687b84eea8408be49f6a71';
+$accountSid = '*********************************';
+$authToken  = '*********************************';
 $baseAPIUrl = 'https://api.twilio.com';
-$twilioAppId = 'AP6ea1770e590447ce5081b6c8ab18d818';
+$twilioAppId = '********************************';
 
 // domain, godaddy
 // u: flutterus
-// p: flutter810
+// p: *********
